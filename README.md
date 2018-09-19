@@ -1,5 +1,6 @@
 # Similar search demo
 
-- [x] simhash & segment simhash
+- [x] cosine similarity
 - [x] kd-tree
+- [x] simhash & segment simhash
 - [ ] vector quantization
