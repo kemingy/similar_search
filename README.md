@@ -2,4 +2,4 @@
 
 - [x] simhash & segment simhash
 - [x] kd-tree
-- [] vector quantization
+- [ ] vector quantization
