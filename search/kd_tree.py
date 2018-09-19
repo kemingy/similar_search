@@ -1,3 +1,5 @@
+# code from https://en.wikipedia.org/wiki/K-d_tree
+
 from collections import namedtuple
 from operator import itemgetter
 from pprint import pformat
