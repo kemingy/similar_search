@@ -1,5 +1,5 @@
 # Similar search demo
 
-* simhash
-* kd-tree
-* vector quantization
+- [x] simhash & segment simhash
+- [x] kd-tree
+- [] vector quantization
